@@ -1,0 +1,10 @@
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.exe.config
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.exe
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.pdb
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csprojAssemblyReference.cache
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.Main.resources
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.Properties.Resources.resources
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csproj.GenerateResource.cache
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.exe
+E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.pdb
