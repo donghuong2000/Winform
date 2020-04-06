@@ -8,3 +8,13 @@ E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\Mutic
 E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csproj.CoreCompileInputs.cache
 E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.exe
 E:\UNIVERSITY\nam 2 HK2\lập trình trên window\test\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.pdb
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.exe.config
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.exe
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\bin\Debug\MutichoiceEnglish.pdb
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csprojAssemblyReference.cache
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.Main.resources
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.Properties.Resources.resources
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csproj.GenerateResource.cache
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.csproj.CoreCompileInputs.cache
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.exe
+E:\Git\Winform\MutichoiceEnglish\MutichoiceEnglish\obj\Debug\MutichoiceEnglish.pdb

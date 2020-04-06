@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -119,7 +120,9 @@ namespace MutichoiceEnglish
 
         private void btnWhy_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(ts.questions[id - 1].Descretion);
+            var a= MessageBox.Show("bạn có muốn đi đến trang web có lời giải thích "+ts.questions[id - 1].Descretion, "Lời giải thích", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+            if(a == DialogResult.Yes)
+                Process.Start(ts.questions[id - 1].Descretion);
         }
     }
 }
