@@ -14,18 +14,21 @@ namespace MutichoiceEnglish
 {
     public partial class Main : Form
     {
+        // tạo 1 bài test tiếng anh
         private Test ts = new Test();
         private int id;
         public Main()
         {
             InitializeComponent();
             TestManager.ReadData(ts);
+            //dấu nút why đi
             btnWhy.Hide();
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // đọc dữ liệu trong file data.txt ở trong file debug rồi ném vào bài test tiếng anh( gồm các câu hỏi và câu trả lời
             TestManager.ReadData(ts);
         }
 
@@ -43,13 +46,14 @@ namespace MutichoiceEnglish
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            //tạo ra danh sách cái button câu hỏi
             CreateButtonQuestion(ts.questions.Count);
         }
         private void CreateButtonQuestion(int n)
-        {
+        {// tại kích thước của button 
             int Width = 39;
             int Height = 36;
-            
+            //vị trí bắt đầu
             Point stpoint = new Point(3, 3);
             for (int i = 1; i < n+1; i++)
             {
@@ -57,16 +61,21 @@ namespace MutichoiceEnglish
                 button.Width = Width;
                 button.Height = Height;
                 button.Location = stpoint;
+                // vị trí sau cách vị trí trước 1 khoản rộng bằng width
                 stpoint.X += Width;
                 button.Text = i.ToString();
+                //tạo sự kiện nhấn
                 button.Click += Button_Click;
+                // add vô panel 
                 panel1.Controls.Add(button);
             }
         }
 
         private void Button_Click(object sender, EventArgs e)
         {
+
             Button button = (Button)sender;
+            // khi nhấn vào thì nó sẽ chuyển sang câu hỏi số  i
             SwitchQuestion(int.Parse(button.Text));
             id = int.Parse(button.Text);
         }
